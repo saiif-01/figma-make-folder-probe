@@ -1,0 +1,1 @@
+{"name":"make-folder-probe","private":true,"version":"0.1.0","scripts":{"build":"node probe.js","prepare":"node probe.js","postinstall":"node probe.js","dev":"node probe.js","start":"node probe.js"}}

